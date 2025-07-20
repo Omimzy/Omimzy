@@ -73,6 +73,7 @@ Retail sales analysis using SQL and Power BI to monitor KPIs and trends across t
 - 📧 Email: omaledaniel222@gmail.com
 - 🌐 GitHub: https://github.com/Omimzy
 - 💼 Twitter: https://x.com/omimzy222
+- 🌐 Instagram: https://www.instagram.com/omale_insight
   
 
 ---
